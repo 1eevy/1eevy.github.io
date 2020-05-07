@@ -11,6 +11,7 @@
                 -ms-background-size: cover;
                 -webkit-background-size: cover;
                 background-size: cover;
+		background-attachment: fixed;
 	}
 	/*内容样式，使用flex布局*/
 	.content{
