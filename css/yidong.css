@@ -61,18 +61,18 @@
 	    text-align: center;
 	    line-height: 0rem;
 	    position: absolute;
-	    background-color: blue;
-	    border-color: blue;
+	    background-color: 	#191970;
+	    border-color: #191970;
 	    right: 1rem;
 	    border-radius: 0;
 	    height: 1.2rem;
 	}
 	#su-2:hover{
-		background-color: blue;
+		background-color: #191970;
 	}
 
 	#su-2:avtive{
-		background-color: blue;
+		background-color: #191970;
 		box-shadow: none;	
 	}
 	
