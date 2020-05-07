@@ -221,7 +221,7 @@ body {
 }
 #su-2{
 	width: 90px;
-	background: 	#778899;
+	background:  #191970;
 	
 	border-top: #3385ff 1px solid;
 	border-bottom: 1px solid #2d78f4;
@@ -233,13 +233,13 @@ body {
 	border: none;
 	}	
 #su-2:hover{
-	background: 	#778899;
-	border-bottom: 1px solid 	#778899;
+	background: 	#191970;
+	border-bottom: 1px solid 	#191970;
 	}
 #su-2:active{
-	background: 	#778899;
-	box-shadow: inset 1px 1px 3px 	#778899;
-	-webkit-box-shadow: inset 1px 1px 3px 	#778899;
+	background: 	#191970;
+	box-shadow: inset 1px 1px 3px 	#191970;
+	-webkit-box-shadow: inset 1px 1px 3px 	#191970;
 	}
 
 
