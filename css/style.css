@@ -221,7 +221,7 @@ body {
 }
 #su-2{
 	width: 90px;
-	background: 	#B0C4DE;
+	background: 	#778899;
 	
 	border-top: #3385ff 1px solid;
 	border-bottom: 1px solid #2d78f4;
@@ -233,13 +233,13 @@ body {
 	border: none;
 	}	
 #su-2:hover{
-	background: 	#B0C4DE;
-	border-bottom: 1px solid 	#B0C4DE;
+	background: 	#778899;
+	border-bottom: 1px solid 	#778899;
 	}
 #su-2:active{
-	background: 	#B0C4DE;
-	box-shadow: inset 1px 1px 3px 	#B0C4DE;
-	-webkit-box-shadow: inset 1px 1px 3px 	#B0C4DE;
+	background: 	#778899;
+	box-shadow: inset 1px 1px 3px 	#778899;
+	-webkit-box-shadow: inset 1px 1px 3px 	#778899;
 	}
 
 
