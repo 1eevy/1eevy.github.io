@@ -8,7 +8,7 @@
 		width: 100%;
 	}
 body{
-  background:url("../img/Flyer-bg.png") no-repeat;
+  background:url(https://api.dujin.org/bing/m.php) no-repeat;
   background-size: 100%;
 }
 	/*内容样式，使用flex布局*/
