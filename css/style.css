@@ -3,12 +3,14 @@ body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd { margin: 0px; padding
 img { border-style: none;}
 li{ list-style: none; float: left}
 a{ text-decoration: none}
-
-body {	
-    background-image: url(https://api.dujin.org/bing/1920.php);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	html,body{
+		height: 100%;
+		width: 100%;
+	}
+body{
+  background:url(https://api.dujin.org/bing/1920.php) no-repeat;
+  background-size: 100% 100%;
+background-attachment: fixed;
 }
 
 /*百度搜索*/
