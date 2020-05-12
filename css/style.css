@@ -8,7 +8,7 @@ a{ text-decoration: none}
 		width: 100%;
 	}
 body{
-  background:url(https://api.dujin.org/bing/1920.php) no-repeat;
+  background:url(../img/01.jpg) no-repeat;
   background-size: 100% 100%;
 background-attachment: fixed;
 }
