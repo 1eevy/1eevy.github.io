@@ -3,14 +3,12 @@ body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd { margin: 0px; padding
 img { border-style: none;}
 li{ list-style: none; float: left}
 a{ text-decoration: none}
-	html,body{
-		height: 100%;
-		width: 100%;
-	}
-body{
-  background:url(../img/01.jpg) no-repeat;
-  background-size: 100% 100%;
-background-attachment: fixed;
+
+body {	
+    background-image: url(../img/01.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 /*百度搜索*/
