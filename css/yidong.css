@@ -11,11 +11,6 @@ body{
   background:#268785
 }
 	
-.pause {background-position: 0 bottom;}
-.mscBtn {height: 50px;
-background: #fff url(//img.mizuiren.com/musicbtn.png) no-repeat;
-display: block;}	
-	
 	/*内容样式，使用flex布局*/
 	.content{
 		width: 15rem;
