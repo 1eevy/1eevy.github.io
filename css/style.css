@@ -150,6 +150,7 @@ body {
 	outline: none;
 	height: 48px;
 	border: none;
+	margin-left: -90px;
 	}	
 #su-2:hover{
 	background: 	#191970;
