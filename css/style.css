@@ -126,46 +126,7 @@ body {
 	opacity: 0.9;
 	font-size: 15px;
 	}
-#Select-2{
-	float: left;
-	}
 
-.Select-box-2{
-	text-align: center;
-	float: left;
-	position: relative;
-	}
-.Select-box-2 ul{
-	height: 48px;
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	z-index: 9999;
-	background: rgba(255,255,255,0.9);
-	border: none;
-	overflow: hidden
-	}
-.Select-box-2 li{
-	width: 60px;
-	line-height: 46px;
-	font-size: 15px;
-	color: #484848;
-	border: 0;
-	cursor: pointer;
-	width: 80px;
-	}
-.Select-box-2 li:hover{
-	background: #3385ff;
-	color: #FFF;
-	}
-.Select-box-2 .this_s{
-	color: #317ef3;
-	width: 80px;
-	}
-.Select-box-2 .this_s:hover{
-	background: none;
-	color: #317ef3;
-	}
 
 	#kw-2 {
     width: 503px;
