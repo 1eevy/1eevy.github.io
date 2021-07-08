@@ -181,14 +181,13 @@ body {
 #su-2{
 	width: 90px;
 	background:  #191970;
-	padding-left: 8px;
 	border-top: #3385ff 1px solid;
 	border-bottom: 1px solid #2d78f4;
 	color: #FFF;
 	cursor: pointer;
 	/*去轮廓阴影*/
 	outline: none;
-	height: 48px;
+	height: 44px;
 	border: none;
 	}	
 #su-2:hover{
