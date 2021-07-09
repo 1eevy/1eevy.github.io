@@ -171,12 +171,29 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/js.js"></script>
 
-
-	}
+<style>
+.audio-control {
+	position:absolute;
+	z-index:5;
+	top:150px;
+	right:280px;
+	text-indent:-9999em;
+	overflow:hidden;
+	width:51px;
+	height:51px;
+	background:url(http://www.jq22.com/tp/732f9bd5-899b-4658-b847-67720cb85016.png) no-repeat;
+}
+.audio-yes {
+	background-position:-246px 0;
+}
+.audio-no {
+	background-position:-316px 0;
+}
+</style>
 <div class="header">
     <div class="header-content layout">
         <div class="nb-video-123"></div>
-        <a id="su-2" class="audio-control audio-yes" href="javascript:core.audioControl()" style="">静音</a>
+        <a id="Jm" class="audio-control audio-yes" href="javascript:core.audioControl()" style="">静音</a>
     </div>
 </div>	
 <script>
