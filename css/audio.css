@@ -1,5 +1,6 @@
 .audio-wrapper {
     background-color: #fcfcfc;
+    opacity: 0;
     margin: 10px auto;
     max-width: 670px;
     height: 70px;
